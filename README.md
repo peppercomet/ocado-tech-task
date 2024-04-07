@@ -21,7 +21,7 @@ Where:
 -  'm' factor comes from the average number of delivery methods checked per item.
 -  'z' factor comes from the potential need to compare against all existing m delivery groups in the worst case for each item.
 
-The limited basket size (100 items) and delivery options (10 per item) keep n and m relatively constant, which significantly reduces the practical complexity of the algorithm compared to the theoretical worst-case scenario.
+The limited basket size (100 items) and delivery options (10 per item) keep n and m relatively constant, what significantly reduces the practical complexity of the algorithm compared to the theoretical worst-case scenario.
 ## Testing
 
 To run the tests:
