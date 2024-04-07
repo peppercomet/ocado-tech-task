@@ -16,7 +16,7 @@ Time Complexity:
 ```bash
 T(n, m, z) = O(n) * O(m) * O(z) = O(n * m * z)
 ```
-Where,
+Where:
 -  'n' factor comes from iterating through the n basket items.
 -  'm' factor comes from the average number of delivery methods checked per item.
 -  'z' factor comes from the potential need to compare against all existing m delivery groups in the worst case for each item.
